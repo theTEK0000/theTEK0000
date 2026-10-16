@@ -1,19 +1,27 @@
-Hi, I'm Talha Enes 👋
-Embedded & software developer from Bursa, Türkiye. I like building things end to end: on the hardware side that means sensors, firmware, power and the enclosure; on the software side, clean C# and C++ with tests.
+# Hi, I'm Talha Enes 👋
 
-My current project is a lean-angle gauge for a racing motorcycle, built from scratch on an ESP32. I'm open to junior and internship roles in embedded systems or software development.
+Embedded & software developer from Bursa, Türkiye. I build hardware projects end to end — from wiring sensors on a breadboard to writing the firmware that runs them. Background in cybersecurity, currently sharpening my networking and C++ skills.
 
-🔧 Projects
-Moto Lean-Angle Gauge: battery-powered lean-angle gauge for a racing motorcycle. ESP32 + MPU-6050 sensor fusion (complementary filter), SSD1306 OLED arc display, persistent max lean in flash, custom two-layer perfboard and 18650 power system.
+## 🔧 What I'm working on
 
-Car Dealership App: C# / .NET 8 console app for a car rental dealership: rentals, returns, revenue and Turkish plate validation, with xUnit tests and GitHub Actions CI.
+- 🏍️ **[moto-lean-angle-gauge](https://github.com/theTEK0000/moto-lean-angle-gauge)** — Real-time motorcycle lean angle gauge (ESP32 + MPU-6050 + OLED)
+- 📘 **[cpp-ogrenme-gunlugu](https://github.com/theTEK0000/cpp-ogrenme-gunlugu)** — My 30-day C++ learning journal, one topic a day
+- 🌐 Learning networking fundamentals (CCNA topics)
+- 🚁 Next up: a palm-sized ESP32 mini drone
 
-🛠️ Tools & tech
- 
- 
- 
- 
- 
+## 🛠️ Tech I use
 
-📫 Contact
-Email: talhakeskin600@gmail.com
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 💡 Interests
+
+Embedded systems · Cybersecurity · Networking · Motorcycles
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/talhaenesk)
